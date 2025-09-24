@@ -7,3 +7,20 @@ h1{
     color:darkgray;
     text-align: center;
 }
+
+.about{
+    color:darkgoldenrod;
+    margin-left: 5px;
+}
+
+.skills{
+    background-color:azure;
+}
+
+.projects{
+    text-align: center;
+}
+
+.contact {
+    font-family: 'Courier New', Courier, monospace;
+}
